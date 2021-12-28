@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecflowTestOctoberBatch", "SpecflowTestOctoberBatch.csproj", "{5C04AC38-3067-46B2-B4BA-2B58102C8B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowOctoberBatchPOM", "..\SpecflowOctoberBatchPOM\SpecflowOctoberBatchPOM.csproj", "{0EA2597F-23A5-467B-9B94-2E0CA19535A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C04AC38-3067-46B2-B4BA-2B58102C8B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C04AC38-3067-46B2-B4BA-2B58102C8B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C04AC38-3067-46B2-B4BA-2B58102C8B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C04AC38-3067-46B2-B4BA-2B58102C8B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA2597F-23A5-467B-9B94-2E0CA19535A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA2597F-23A5-467B-9B94-2E0CA19535A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA2597F-23A5-467B-9B94-2E0CA19535A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA2597F-23A5-467B-9B94-2E0CA19535A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3404AA8-0BBB-49C6-97B7-253AE8C0DF9F}
+	EndGlobalSection
+EndGlobal
